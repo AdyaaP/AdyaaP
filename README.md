@@ -1,6 +1,7 @@
 # Hullo! 👋
 - My name is Adyaa Aradhana Panda, or you can just go with Aru. 
 - I'm currently in the 10th grade.
+- I'm currently working on fulfilling my dreams and ambitions.
 - I live in India.
 - I'd like to opt for JEE, and enter Civil Service in future.
 - I'm currently working on HTML, CSS, and JS.
