@@ -5,3 +5,4 @@
 # I'm also currently working on HTML, CSS, and JS.
 # My hobbies include sketching caricatures, dancing, reading stories, or just scrolling through Youtube and Pinterest.
 # A Wacky Fun Fact: If you were to check your height, you are taller in the morning compared to night. :D
+# And if you are here, well, don't forget to follow. :p
