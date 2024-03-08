@@ -1,5 +1,5 @@
 # Hullo! 👋
-- My name is Adyaa Aradhana Panda (or Aru for short). 
+- My name is Adyaa Aradhana Panda, or you can just go with Aru. 
 - I'm currently in the 10th grade.
 - I live in India.
 - I'd like to opt for JEE, and enter Civil Service in future.
