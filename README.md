@@ -1,5 +1,5 @@
 # Hullo! 👋
-- My name is Adyaa Aradhana Panda, or you can just go with Aru. 
+- This is Adyaa Aradhana Panda, or you can just go with Aru. 
 - I'm currently in the 10th grade.
 - I'm currently working on fulfilling my dreams and ambitions.
 - I'm also currently working on HTML, CSS, and JS.
